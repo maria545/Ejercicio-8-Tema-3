@@ -25,6 +25,7 @@
     </Window.Resources>
     
     
+    
     <StackPanel Margin="10">
         <StackPanel Height="86">
             <StackPanel.Background>
